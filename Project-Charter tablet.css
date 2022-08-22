@@ -1,0 +1,122 @@
+/* Phan Goals */
+@media screen and (min-width: 768px) and (max-width: 991px) {
+* {
+    font-family: "Tent", sans-serif;
+}
+.icon {
+    height: 30px;
+    padding-top: 20px;
+}
+.goal {
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid rgb(235, 227, 227);
+    padding-left: 40px;
+}
+.g {
+    margin-top: -10px;
+    padding-left: 40px;
+}
+.td {
+    border-bottom: 2px solid #ddd;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    color: blue;
+}}
+/* Phan Teams */
+@media screen and (min-width: 768px) and (max-width: 991px) {
+.team {
+    display: flex;
+    flex-direction: row;
+    padding-left: 20px;
+}
+.icon-user::before {
+    padding-top: 20px;
+    font-size: 30px;
+}
+.container-team {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}}
+/* Phan Timeline */
+@media screen and (min-width: 768px) and (max-width: 991px) {
+.timeline {
+    display: flex;
+    flex-direction: row;
+    padding-left: 20px;
+}
+.so {
+    height: 30px;
+    margin-top: 10px;
+    padding-top: 20px;
+    background-color: rgb(160, 91, 224);
+    color: white;
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    font-size: 24px;
+    border: 2px solid rgb(80, 74, 74);
+}
+.timeline .g {
+    border-bottom: 2px Dotted blue;
+    padding-left: 10px;
+    margin-left: 40px;
+    padding-right: 500px;
+}}
+/* Phan Scopes */
+@media screen and (min-width: 768px) and (max-width: 991px) {
+.nd-sco {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-left: 40px;
+}
+.in {
+    padding-right: 60px;
+}}
+/* Phan Primary */
+@media screen and (min-width: 768px) and (max-width: 991px) {
+.pri {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
+.pri p {
+    margin-top: 20px;
+    margin-left: -10px;
+    padding-left: 40px;
+}
+.pri .icon {
+padding-top: 10px;
+height: 40px;
+width: auto;
+padding-left: 30px;
+}
+.pri1 {
+    padding-right: 80px;
+}
+}
+/* Phan chung */ 
+@media screen and (min-width: 768px) and (max-width: 991px){
+body {
+    display: grid;
+    grid-template-columns: 1fr;
+    box-shadow: 5px 10px 10px 0px rgb(124, 118, 118);
+    margin: 20px;
+}
+.khoi3 {
+background-color: rgb(198, 238, 225);
+}
+.khoi1 {
+    background-color: rgb(198, 238, 225);
+}
+.khoi2 {
+    background-color: rgb(198, 238, 225);
+}
+.khoi4 {
+    background-color: rgb(198, 238, 225);
+}
+.khoi5 {
+background-color: rgb(198, 238, 225);
+padding-bottom: 40px;
+    }}
